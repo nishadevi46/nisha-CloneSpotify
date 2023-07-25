@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nisha-CloneSpotify/static/css/main.c7ec3132.css",
+    "main.js": "/nisha-CloneSpotify/static/js/main.0a0e5403.js",
+    "index.html": "/nisha-CloneSpotify/index.html",
+    "main.c7ec3132.css.map": "/nisha-CloneSpotify/static/css/main.c7ec3132.css.map",
+    "main.0a0e5403.js.map": "/nisha-CloneSpotify/static/js/main.0a0e5403.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7ec3132.css",
+    "static/js/main.0a0e5403.js"
+  ]
+}
